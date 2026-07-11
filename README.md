@@ -16,7 +16,7 @@
 
 I build software that helps businesses automate operations, improve revenue workflows, and make better decisions through data.
 
-My work sits at the intersection of **AI Engineering**, **Revenue Operations**, **Automation**, **CRM Architecture**, **Full-Stack Development**, and **Data Engineering**.
+My work sits at the intersection of **AI Engineering**, **Revenue Operations**, **Automation**, **CRM Architecture** and **Data Engineering**.
 
 Rather than chasing complexity, I focus on building reliable systems that solve real business problems. Every project starts with understanding how information flows through an organization, identifying bottlenecks, and designing automation that scales with the business.
 
