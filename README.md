@@ -1,171 +1,110 @@
 <div align="center">
 
-# Hey, I'm Sarim Ishtiaq
+# 👋 Hey, I'm Sarim Ishtiaq
 
-*Business Technology | GTM Engineer | Automation & Martech | AI Engineering | Building efficient systems at Paradise Digitals (paradisedigitals.com)*
+### AI Systems Engineer • RevOps Engineer • Automation Architect • Paradise Digitals
 
-![Location](https://img.shields.io/badge/Lahore%2C%20PK-Remote-3fb950?style=flat-square&labelColor=161b22)
+*Building AI-powered business systems, CRM automation, intelligent workflows, and scalable software at Paradise Digitals.*
+
+![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-Remote-3fb950?style=flat-square&labelColor=161b22)
+![Open to Work](https://img.shields.io/badge/Open%20to-AI%20Engineering-success?style=flat-square)
+![Focus](https://img.shields.io/badge/Currently-Building%20AI%20Systems-blue?style=flat-square)
 
 </div>
 
 ---
 
-I build the technical infrastructure behind a B2B growth marketing agency serving *Tech companies and Businesses* at Series A–B. Automation workflows, data pipelines, RevOps dashboards, attribution models, and proprietary internal tools — built lean, built to last.
+I build software that helps businesses automate operations, improve revenue workflows, and make better decisions through data.
 
-I build by thinking precisely about systems, writing tight specs, and iterating fast with AI-assisted development. It works.
+My work sits at the intersection of **AI Engineering**, **Revenue Operations**, **Automation**, **CRM Architecture**, **Full-Stack Development**, and **Data Engineering**.
+
+Rather than chasing complexity, I focus on building reliable systems that solve real business problems. Every project starts with understanding how information flows through an organization, identifying bottlenecks, and designing automation that scales with the business.
+
+Currently transitioning deeper into **AI Engineering**, with a focus on AI agents, intelligent automation, data pipelines, and production-ready applications.
 
 ---
 
 ## Stack
 
-*Automation*
+### AI & LLMs
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-5B21B6?style=flat-square)
+
+### Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=flat-square&logo=playwright)
 
-*Coding*
+### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-*Data & Dashboarding*
+### Frontend
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
 
-*CRM & GTM*
+### CRM • RevOps
 
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Pipedrive](https://img.shields.io/badge/Pipedrive-017737?style=flat-square&logo=pipedrive&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
-![Attio](https://img.shields.io/badge/Attio-1C1C1C?style=flat-square&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-00BCD4?style=flat-square&logoColor=white)
-![Marketo](https://img.shields.io/badge/Marketo-5C4EE5?style=flat-square&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=flat-square&logo=zoho&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-017737?style=flat-square&logo=pipedrive)
+![Zoho](https://img.shields.io/badge/Zoho-C8202B?style=flat-square&logo=zoho)
 
-*Email Outreach*
+### Analytics & Data
 
-![Smartlead](https://img.shields.io/badge/Smartlead-2D6CDF?style=flat-square&logoColor=white)
-![Instantly](https://img.shields.io/badge/Instantly-1A1A1A?style=flat-square&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets)
 
-*Lead Enrichment*
+### Marketing
 
-![Apollo](https://img.shields.io/badge/Apollo.io-3B82F6?style=flat-square&logoColor=white)
-![Clay](https://img.shields.io/badge/Clay-8B5CF6?style=flat-square&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0467DF?style=flat-square&logo=meta)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=flat-square)
+![Ahrefs](https://img.shields.io/badge/Ahrefs-FF8800?style=flat-square)
 
-*Workspace*
+### Cloud & DevOps
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
 
 ---
 
 ## How I Work
 
-▸ *Systems before code.* Data flows, failure modes, and edge cases first — implementation second.
+- Think in systems before writing code.
+- Design reliable data flows before choosing technologies.
+- Automate repetitive work wherever possible.
+- Build lean, maintainable software that scales with business needs.
+- Prefer practical solutions over unnecessary complexity.
 
-▸ *Lean by default.* Solutions as minimal as the problem allows. Unnecessary complexity is a bug.
+---
 
-▸ *Purpose-built over general-purpose.* Internal tooling doesn't need to look good to the outside world — it needs to be reliable and maintainable by a small team.
+## Currently Exploring
+
+**Agentic AI • Multi-Agent Systems • RAG • MCP • Data Engineering • MLOps • Enterprise AI • Production LLM Applications**
 
 ---
 
 <div align="center">
-<sub>Building at the intersection of AI, automation, and climate tech GTM</sub>
+
+*"Build systems that save time, improve decisions, and scale businesses."*
+
 </div>
-
-**Detailed Technical Stack**
-AI Engineering
-OpenAI
-Anthropic Claude
-Google Gemini
-LangChain
-OpenRouter
-MCP
-AI Agents
-Prompt Engineering
-RAG
-Vector Databases
-Backend
-Python
-FastAPI
-Node.js
-Express
-Supabase
-PostgreSQL
-SQLite
-Frontend
-Next.js 15
-React
-TypeScript
-Tailwind CSS
-HTML
-CSS
-JavaScript
-**Automation**
-n8n
-Zapier
-Make
-HubSpot Workflows
-APIs
-Webhooks
-Playwright
-**Data Engineering**
-Pandas
-NumPy
-Google Sheets API
-ExcelJS
-ETL Pipelines
-SQL
-**RevOps & CRM**
-HubSpot
-Salesforce
-Pipedrive
-Zoho CRM
-**Marketing Automation**
-Lifecycle Management
-Attribution
-Reporting
-Analytics
-Looker Studio
-Google Analytics 4
-Google Tag Manager
-Search Console
-Power BI (Learning)
-**Marketing**
-Google Ads
-Meta Ads
-Technical SEO
-SEMrush
-Ahrefs
-**Cloud & DevOps**
-Git
-GitHub
-Vercel
-Docker
-
-**How I Work**
-
-I think in systems before implementation.
-
-Every project starts with understanding how information moves through a business—where data originates, how decisions are made, and what can be automated.
-
-From there, I design solutions that prioritize reliability, maintainability, and measurable business impact over unnecessary complexity.
-
-Whether it's an AI agent, CRM integration, automation workflow, or full-stack application, my goal is always the same:
-
-Build systems that save time, improve decision-making, and scale with the business.
-
-**Currently Exploring**
-AI Engineering
-Agentic AI Systems
-Multi-Agent Architectures
-Data Engineering
-MLOps
-LLM Applications
-Enterprise Automation
-Model Context Protocol (MCP)
-Production AI Systems
