@@ -10,7 +10,7 @@
 
 ---
 
-I build the technical infrastructure behind a B2B growth marketing agency serving *cleantech and climate tech companies* at Series A–B. Automation workflows, data pipelines, RevOps dashboards, attribution models, and proprietary internal tools — built lean, built to last.
+I build the technical infrastructure behind a B2B growth marketing agency serving *Tech companies and Businesses* at Series A–B. Automation workflows, data pipelines, RevOps dashboards, attribution models, and proprietary internal tools — built lean, built to last.
 
 I build by thinking precisely about systems, writing tight specs, and iterating fast with AI-assisted development. It works.
 
@@ -77,7 +77,7 @@ I build by thinking precisely about systems, writing tight specs, and iterating 
 <sub>Building at the intersection of AI, automation, and climate tech GTM</sub>
 </div>
 
-**Technical Stack**
+**Detailed Technical Stack**
 AI Engineering
 OpenAI
 Anthropic Claude
